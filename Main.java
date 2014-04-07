@@ -3,8 +3,8 @@
 public class Main{
 
 	public static void main(String[] args){
-		System.out.print("Hello ");
-		System.out.println(" EveryBody");
+		System.out.print("Hello1 ");
+		System.out.println(" Every Body hurts");
 		
 	}
 }
