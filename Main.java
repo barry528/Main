@@ -6,7 +6,7 @@ public class Main{
 		Calc c= new Calc();
 		System.out.print("Salut tout  !");
 
-		System.out.println("Somme :"+c.somme(3,5));
+		System.out.println("Multiplication :"+c.mult(3,5));
 		
 
 		
